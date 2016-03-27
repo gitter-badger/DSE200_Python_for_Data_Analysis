@@ -1,4 +1,6 @@
 # DSE200 Python for_Data_Analysis
+
+[![Join the chat at https://gitter.im/davilaedu/DSE200_Python_for_Data_Analysis](https://badges.gitter.im/davilaedu/DSE200_Python_for_Data_Analysis.svg)](https://gitter.im/davilaedu/DSE200_Python_for_Data_Analysis?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ! Not done. Working on redoing my assignments in the class more clearly
 
 ## IPython Notebooks for Assignments (From Newest to Oldest)
